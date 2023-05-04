@@ -10,3 +10,5 @@ https://github.com/ggerganov/llama.cpp programina ihtiyaciniz olacak. Bunu indir
 ```
 
 komutu ile etkilesimli sohbet ekranini acabilirsiniz.
+
+Keywords: Turkish, Lora, turkce, llama
