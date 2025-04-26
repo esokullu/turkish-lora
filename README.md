@@ -1,4 +1,4 @@
-# sokullu-lora
+# turkish-lora
 
 Nasil Kullanilir?
 
